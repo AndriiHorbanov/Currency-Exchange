@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency exchange</string>
+    <string name="warning_ok_button">OK</string>
+    <string name="warning_two_values">Warning: One of the fields provided must be empty to display the result</string>
+    <string name="warning_no_internet">Warning: No internet connection, please connect to the internet and try again </string>
+    <string name="warning_wrong_send_value">Warning: The "You send" field is filled incorrectly. It should be filled with non-negative numbers.</string>
+    <string name="warning_wrong_receive_value">Warning: The "They receive" field is filled incorrectly. It should be filled with non-negative numbers </string>
+    <string name="warning_no_values">Warning: Both fields are empty. To proceed, please fill in at least one field and try again. </string>
+    <string name="gbp">GBP</string>
+    <string name="pln">PLN</string>
+    <string name="you_send">You send</string>
+    <string name="they_receive">They receive</string>
+    <string name="rate">Rate: </string>
+    <string name="charge_button">charge</string>
+    <string name="clear_button">clear</string>
+    <string name="sale">Sell </string>
+    <string name="by">Buy </string>
+    <string name="last_data_update">Effective date: </string>
+</resources>

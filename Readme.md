@@ -10,7 +10,7 @@
 
 # Brief overview of the application
 ## Main screen of the application
-![Main screen of the application.](https://lh3.googleusercontent.com/pw/AMWts8DyaiaDksou2jNNSrbBVXl3wgp6OkUZnW5oCEX2nzBPOhZLGNChRnt-HYxdyo-35XuO1frRjSDcG-nNapIpudn50uRHbN1C09RZvZh1T3Q6P9pDSZbkZUT4EYURemHQEdwilZe6-lcZIIxXoboVBowxYg=w459-h822-s-no?authuser=0)
+![Main screen of the application.](https://i.imgur.com/Yx8zY0B.png)
 ### Located here are:<br/>
 
 - An editable field labeled 'You send' where the user can input the amount of foreign currency to be exchanged and expects to see the calculated value in the 'They receive' field.
@@ -21,7 +21,7 @@
 - A 'Clear' button to clear all editable fields for ease of user interaction with the program.<br/><br/>
 
 ## Currency selection and inputting data in EditText<br/>
-![Selection and inputting](https://lh3.googleusercontent.com/pw/AMWts8ABSPigxwWxdUHcBNqLPTTCKma4D4NpI8sSjD_cq_3LzuWKtK5TA-FQgNE_CaI_UgCShlrQcM6GW4RFTSy0Hb7WEfRIP58HI3NpFoGJrlJDDzdqKMgYOSY2y-z3on_ljWbzNQzrgt-f2fnJk2vqiur6jw=w463-h823-no?authuser=0)
+![Selection and inputting](https://i.imgur.com/fYUPZLW.png)
 
 - When the country flag icon is pressed in the 'You send' field, a dropdown list is implemented, allowing the user to select the desired currency for exchange.
 - When any of the editable fields are pressed, a keyboard opens for inputting data. The keyboard is set to 'numberDecimal' to limit the user's ability to input letters and make the application more user-friendly. While letters would not interfere with the calculation, it is better to limit the user's access to unnecessary functionality if possible.
@@ -31,7 +31,7 @@
 
 ## Warning dialogs<br/>
 
-![Warning dialogs](https://lh3.googleusercontent.com/w1QFv85rjrl4MdPYPJLoCzvPNxOAWndUvki5b4n5Zuy4K5oc-yC3xeIZkkPMOHUVsfid_2GMCkCuv4aOWS1uiMMqftOCpZz3qD-vG2bfWWlmEiK9bbVTxLWSVoUmGAB0JD3yGqh-lhK3RbpOMyH4ev9mMsgbrNiNuXmE4RorVxhfoRdObOjHWsmf4bBixSSvMHERv5eVbpn_r7rVu0NhZoLMT_HjrhE9PonrZdHDstSmZ0mj-l8kHWF9zuQdjoND824y6_vGfQAZrmF0LahErx4_y3PXnBtlTWha3f86x0KcQRn9EkVZMI9W6dyTrltC8T6z7Lesl3-wpjRiqP3Z3Wdx8-PSoT1G9CvB__OACf3Aex0KhxMy4OK_eqnDr3pGdltws58UUiIcYzZgIphSLhEy8F7UpbwlEiIrNXawTYCBDRxKXtraQBsiArN14IcHA-3qoHDrTC3zhQmure1OPd-9OYCi_KyKrqbjdDChZ53EBcpsO9YDHhUB_ruOXI6hOuT2FBA2AEjcM0vFRJ98pz0Mj4tkCifnpXTmqGx3yA_fGAeYZaoMNzBgX29ya5C_HdPhchJ1hIlilWkQCuFvGoe6E88HLnVMeKBNoDDp5j0QtNOBrY7EuDPHcJilM9VdvlA73B7Tshb4uRV4xXOYhrbI3iLi9rH5KtJIs7ZjEhOMouhrsm8e9l_PaRTBsSW2ZEV5dRiEIFFm5M6cyVU9O956d9jojNgWgTzJ4PJ5iPhx-U0cKB3fAzWSEYnoFOkeTufSXOEfO4Tqkc3tVsMtkiz6HCBg3Fnbbl1_OXCBl6XbLB_sPCROfYaD_56_OIBkQuzTzQ5xsmCZvHWxMrPFcMj3XRSKiGkiloApYe8b2e-S0Y0oSGaiXNGwhQD_-kyBUYS3pPU-uGknVfDqbNUrTmy26F4HtP-n2MhoV0kFqcD_FvXJPVNXxs_oM_PprNr-kCeuf4BeeFLoPCgUEBqcSQ=w465-h822-no?authuser=0)<br/>
+![Warning dialogs](https://i.imgur.com/OC6nk8T.png)<br/>
 
 If the user misuses the application and presses the Charge button, they will receive a warning dialog with an appropriate warning message and instructions.
 
@@ -45,7 +45,7 @@ If the user misuses the application and presses the Charge button, they will rec
 
 ## Result of the program action<br/>
 
-![Result](https://lh3.googleusercontent.com/Zg-9SA9EBMsrH10OjWxrBQ6ocFUMgScLnx44z11zka0bYxp_MX_DWJnBOqL15tJIJNotAGqFtx_Evjp28KM2gEUap9rHaZoyJcpsYR1TNUnlXsdyAd9PaA6TmIZDT_TSJgRQFsH2RSCggsAyiB91nsVNGQWEfs5d7HizcRyY_CjeydMwPyzCVKp7v4Fv56-PdnLyNWzGWXBreo1rDH5bzn7_JmsM74HaiGBqs254UtjQdUeCjpW-FZzm-7SC-dgctEMNc9qiPCqdaxKly8ZuFrTDfr6O2HCdynlRjYp6NJ2bMBcs7pKg4halBDh1c9jqvE8REKktB_SFZrgNPPm15boA4C2Ab8Y48WgJ8PTovwjeFZMstESETpt3Dmg5I0xT36M-IBzuvdedSGHVVn8C0U6N0oiERWXh5aWGPUjaltgzXA7JINdJCfQQH77FxgmmsCTNPaNF-0q9Xl-LnwqILSAQsCKptdb3PhSi0WsUWy17JApuaQaHo5S-gFvqu85DTV_21uWkYb7-c_r07ztTpns3IylwGIMd0XBlPx9nG6xLnDCvzXF2AvffN32P8FhQGXbs5InxJkMevyzmuKpMsKNUnTF_hXrpZJ8qbvEVLS-LRwkq2yP2ayyDnCknfFS307MN-kbB5y2eytoDtQqNsefcDp8855fW85jR0FxAX9ZxCr7M_mecze6xcID8fHYBHQ0jQHsgEl8saMIDe6RNLlgQRYddV5Ru8PDHE8cs5v4KzBi_DfUzD_fEp_wdpkeiQDXBMI35bgELvfJU-Ym1PUTyG0_jJIlJlai5_gqC72soTKo6YY10ToGA2pO32psm_mA-GHsEGurc4zHirRl9E7N8a9LBUQzFni7qEzDTAUnPRfyrWIO3XkjKBk09RLzLBnVO1D2XkGscUyHtO2OfCyLc2b8tW4Dmpsm3yu5n2H2j4MaU5dsvwPqLAjeLRIUMsi5SQ3Hx1QuwL92r84Fsfg=w464-h823-no?authuser=0)<br/>
+![Result](https://i.imgur.com/cLXrgnn.png)<br/>
 
 If the user has entered all the required data properly and presses the "Charge" button, the calculated amount of money will be displayed in the field that the user left blank. 
 

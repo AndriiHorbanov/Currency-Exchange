@@ -1,5 +1,13 @@
 # Currency-Exchange
 ## This program enables users to exchange currencies at the current exchange rate, sourced from the National Bank of Poland (NBP).
+
+### Instructions for launching the application:<br/>
+
+1. Download the Git-Hub repository clone.<br/>
+2. Unzip the zip file on your computer.<br/>
+3. Open the Currency-Exchange-main folder with Android Studio.<br/>
+4. Launch the project using an emulator or a real device.<br/>
+
 # Brief overview of the application
 ## Main screen of the application
 ![Main screen of the application.](https://lh3.googleusercontent.com/pw/AMWts8DyaiaDksou2jNNSrbBVXl3wgp6OkUZnW5oCEX2nzBPOhZLGNChRnt-HYxdyo-35XuO1frRjSDcG-nNapIpudn50uRHbN1C09RZvZh1T3Q6P9pDSZbkZUT4EYURemHQEdwilZe6-lcZIIxXoboVBowxYg=w459-h822-s-no?authuser=0)
@@ -43,13 +51,9 @@ If the user has entered all the required data properly and presses the "Charge" 
 
 Additionally, the "Rate" and "Effective Date" fields will show the corresponding information about the exchange rate and the date of currency update.
 ___
-<br/><br/>
-
 
 ## Overview of the Application Architecture<br/>
 > The MVVM pattern was utilized in the development of this program, with the absence of the Model layer due to the unnecessary storage of data within the application after closing. Full isolation between the View and ViewModel layers was implemented to ensure that the View had no knowledge of data management or computational processes.
-___
-<br/><br/>
 
 ## List of Classes in the Application and Their Purpose
 
